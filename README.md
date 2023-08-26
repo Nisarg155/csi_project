@@ -6,6 +6,5 @@ It will check all the credentials and then insert your credentials
 
 ## screenshot
 
-<img src="https://github.com/Nisarg155/csi_project/blob/master/screenshot.png")
->
+<img src="https://github.com/Nisarg155/csi_project/blob/master/screenshot.png">
  
